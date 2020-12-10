@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /acerca-de/
+permalink: /about-of/
 ---
 
 Alumno de la UNIR - curso 2020-2021
