@@ -49,7 +49,7 @@ url: "http://www.amazon.com"
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://actualidaddealemania.wordpress.com/tag/seleccion-alemana/"
+baseurl: "https://actualidaddealemania.wordpress.com/tag/seleccion-alemana"
 
 #
 # !! You don't need to change any of the configuration flags below !!
